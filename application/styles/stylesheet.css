@@ -1,0 +1,34 @@
+.searchdivs > div{
+	padding: 2px;
+	text-align: left;
+}
+.searchdivs > div > input{
+	margin-right: 5px;
+	width: 150px;
+}
+
+.btn-try{
+	background-color: #ff5252;
+	color: white;
+	font-style: bold;
+	font-size: 16px;
+}
+
+footer{
+	margin-top: 20px;
+	background-color: #ffcdd2;
+	color: black;
+	font-weight: bold;
+	bottom: 0px;
+	position: fixed;
+	width: 100%;
+	padding-top: 2px;
+}
+
+.spacing > span{
+	margin-right: 100px;
+}
+
+.container{
+	margin-bottom: 50px;
+}
